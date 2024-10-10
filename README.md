@@ -22,8 +22,6 @@ facilitating more informed decision-making in model selection for time series fo
 | Python    | `3.12.5`|
 | pip       | `22.0.4`|
 
-<br>
-<br>
 
 # Set Up the Python Environment
 
