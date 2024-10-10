@@ -38,7 +38,19 @@ python -m pip install -r requirements.txt
 
 # Download the Datasets
 
-The following notebook uses the [AirPassengers](https://www.kaggle.com/datasets/rakannimer/air-passengers) dataset, which once downloaded from kaggle should be placed in the `datasets/` directory
+Create the datasets directory:
+
+```bash
+mkdir datasets
+```
+
+The following notebook uses the [AirPassengers](https://www.kaggle.com/datasets/rakannimer/air-passengers) dataset, which once downloaded, extract the .zip file into the `datasets/` directory
+
+```bash
+mv ~/Downloads/archive.zip .
+unzip archive.zip
+rm archive.zip
+```
 
 ------
 
