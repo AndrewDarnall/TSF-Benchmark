@@ -29,13 +29,13 @@ facilitating more informed decision-making in model selection for time series fo
 
 ```bash
 python -m venv data-analytics
-
+```
 
 # Download the Dependencies
 
 ```bash
 python -m pip install -r requirements.txt
-
+```
 ------
 
 # Run the notebook
@@ -45,8 +45,9 @@ Clone the GitHub repo and change into the repo's directory:
 ```bash
 git clone https://github.com/AndrewDarnall/TSF-Benchmark.git
 cd TSF-Benchmark
-
+```
 From the commandline terminal (in Linux and macOS) run the following command:
 
 ```bash
 jupyter-notebook ./TSF-Benchmark.ipynb --port=8086
+```
