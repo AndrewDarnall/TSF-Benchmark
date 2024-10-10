@@ -36,7 +36,14 @@ python -m pip install -r requirements.txt
 ```
 ------
 
-# Download the Datasets
+# Download the Datasets and Run the notebook
+
+Clone the GitHub repo and change into the repo's directory:
+
+```bash
+git clone https://github.com/AndrewDarnall/TSF-Benchmark.git
+cd TSF-Benchmark
+```
 
 Create the datasets directory:
 
@@ -52,17 +59,6 @@ mv ~/Downloads/archive.zip .
 unzip archive.zip
 rm archive.zip
 cd ..
-```
-
-------
-
-# Run the notebook
-
-Clone the GitHub repo and change into the repo's directory:
-
-```bash
-git clone https://github.com/AndrewDarnall/TSF-Benchmark.git
-cd TSF-Benchmark
 ```
 
 From the commandline terminal (in Linux and macOS) run the following command:
