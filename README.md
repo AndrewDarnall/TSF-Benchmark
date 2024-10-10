@@ -42,6 +42,7 @@ Create the datasets directory:
 
 ```bash
 mkdir datasets
+cd datasets
 ```
 
 The following notebook uses the [AirPassengers](https://www.kaggle.com/datasets/rakannimer/air-passengers) dataset, which once downloaded, extract the .zip file into the `datasets/` directory
@@ -50,6 +51,7 @@ The following notebook uses the [AirPassengers](https://www.kaggle.com/datasets/
 mv ~/Downloads/archive.zip .
 unzip archive.zip
 rm archive.zip
+cd ..
 ```
 
 ------
