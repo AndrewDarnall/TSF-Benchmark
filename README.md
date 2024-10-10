@@ -36,6 +36,12 @@ python -m pip install -r requirements.txt
 ```
 ------
 
+# Download the Datasets
+
+The following notebook uses the [AirPassengers](https://www.kaggle.com/datasets/rakannimer/air-passengers) dataset, which once downloaded from kaggle should be placed in the `datasets/` directory
+
+------
+
 # Run the notebook
 
 Clone the GitHub repo and change into the repo's directory:
@@ -44,6 +50,7 @@ Clone the GitHub repo and change into the repo's directory:
 git clone https://github.com/AndrewDarnall/TSF-Benchmark.git
 cd TSF-Benchmark
 ```
+
 From the commandline terminal (in Linux and macOS) run the following command:
 
 ```bash
