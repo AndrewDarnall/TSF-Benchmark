@@ -1,5 +1,8 @@
 # Time Series Forecasting Benchmark
 
+![TSF-Benchmark Cover](./assets/imgs/TSF-Benchmark-Cover.png)
+
+---
 
 This project explores the benchmarking of **univariate time series forecasting**, focusing on comparing the performances of various models. The models analyzed include traditional 
 **statistical models** such as **ARIMA** and **SARIMA**, as well as modern **deep learning models** like **LSTM** and **Transformer** networks. 
