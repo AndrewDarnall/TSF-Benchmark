@@ -16,5 +16,5 @@ I reviewed some findings from the original papers, before introducing the closed
 
 Finally, I presented the **Neural Circuit Policy** architecture, which has been successfully deployed for an autonomous driving task focused on **lane keeping**.
 
-However, it is important to note that this presentation is not exhaustive; it merely represents a portion of my research during my time with the **FPV Lab**.
+However, it is important to note that this presentation is not exhaustive; it merely represents a portion of my research during my time with the **[FPV Lab](https://iplab.dmi.unict.it/live/)***.
 
