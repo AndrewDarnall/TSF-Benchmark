@@ -1,4 +1,4 @@
-# Time Series Forecasting Benchmark
+# Liquid Sky - A Time Series Forecasting Benchmark
 
 ![TSF-Benchmark Cover](./assets/imgs/TSF-Benchmark-Cover.png)
 
